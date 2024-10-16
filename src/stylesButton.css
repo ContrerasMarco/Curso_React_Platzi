@@ -1,0 +1,14 @@
+.StyleButtonCreatetodo {
+  border: 5px;
+  border: solid 2px black;
+  border-radius: 10px;
+  background: rgb(2, 90, 2);
+  color: aliceblue;
+  padding: 15px;
+  text-align: center;
+}
+
+.StyleButton {
+  display: flex;
+  justify-content: center;
+}

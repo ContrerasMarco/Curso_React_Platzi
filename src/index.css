@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: "Baskervville SC", serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(45, 42, 42);
+  width: 80%;
+  margin: 0 auto;
+}
+
+code {
+  /*font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;*/
+}
+
+#root {
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 40px;
+  opacity: 0.6;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+ul {
+  color: rgb(17, 28, 28);
+  list-style: none;
+}
+li {
+  text-decoration: none;
+  list-style: none;
+  border-radius: 10px;
+}

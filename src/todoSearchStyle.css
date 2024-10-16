@@ -1,0 +1,12 @@
+.InputPosition {
+  display: flex;
+  justify-content: center;
+}
+
+.styleInput {
+  background: black;
+  color: aliceblue;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+}
