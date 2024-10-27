@@ -12,7 +12,7 @@ const defaultTodos = [
   { text: "Cortar cebolla", completados: false }, // completed hace referencia a si el to-do o tarea ya esa completado o no.
   { text: "Tomar el curso de Platzi de react.js", completados: true },
   { text: "Llorar con la llorona", completados: false },
-  { text: "Estudiar todos los dias una hora", completados: true },
+  { text: "Estudiar todos los dias una hora", completados: false },
   { text: "Ver a la U todos los fin de semana", completados: true },
 ];
 function App() {
