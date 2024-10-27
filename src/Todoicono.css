@@ -1,0 +1,38 @@
+.clickTodoListo {
+    color: grey;
+    /* font-size: 18px; */
+    font-weight: 700;
+  }
+  .click_Icon-check {
+    padding-right: 10px;
+    position: relative;
+    cursor: pointer;
+    
+  }
+  .click_Icon-check:hover .icon-svg {
+    fill: green;
+  }
+  .todoDelete { 
+    color: blue;
+     font-size: 15px; 
+     font-weight: 700;
+  } 
+  
+  .click_Icon-delete {
+    padding-left: 10px;
+    position: absolute;
+    top: 5px;
+    right: -20px;
+  }
+  .click_Icon-delete:hover .icon-svg{
+    fill: red;
+  }
+  .todoDelete:hover  {
+    cursor: pointer;
+    
+    /* border: 1px solid red; */
+  }
+  .icon-svg {
+      width: 20px;
+      height: 20px;
+  }
